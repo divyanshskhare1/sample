@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Layout } from 'antd';
 import SideGrid from './sidegrid';
 import 'antd/dist/antd.css';
-import Headers from '../pages/header';
+import Headers from '../pages/header/header';
 import Footers from '../pages/footer';
 
 const { Sider } = Layout;

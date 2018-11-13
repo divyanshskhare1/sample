@@ -8,7 +8,7 @@ class Footers extends Component {
     
     render() {
       return (
-        <Footer style={{ textAlign: 'center' }}>
+        <Footer style={{ textAlign: 'center', backgroundColor: 'grey', padding: 1 }}>
             Ant Design ©2018 Created by Ant UED
         </Footer>
           

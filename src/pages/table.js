@@ -101,7 +101,11 @@ import 'antd/dist/antd.css';
       const { dataSource } = this.state;
       const columns = this.columns;
       return (
-        <Table columns={columns} rowSelection={rowSelection} dataSource={dataSource} pagination={{ pageSize: 10 }} />
+        <div>
+          
+          <Table columns={columns} rowSelection={rowSelection} dataSource={dataSource} pagination={{ pageSize: 10 }} />
+        </div>
+        
       );
     }
   }
