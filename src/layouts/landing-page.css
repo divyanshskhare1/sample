@@ -1,0 +1,18 @@
+.logo {
+
+    width: 130px;
+    height: 31px;
+    background-color:rgba(224, 12, 111, 0.836);
+    margin: 10px 500px 16px 0;
+    float: left;
+    background-image: "tmobiles.png";
+    position: relative;
+    z-index: 1;
+  }
+  .logo_img
+  {
+      width: 130px;
+      height: 32px;
+      margin-bottom: 110%;
+      margin-left: 50px;
+  }

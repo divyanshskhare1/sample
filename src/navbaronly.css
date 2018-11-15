@@ -1,0 +1,50 @@
+.icon{
+    align-content: flex-end
+}
+.nav-area{
+    background-color: rgba(224, 12, 111, 0.836);
+    margin-left: 150px;
+    width: 92%;
+}
+.nav-area1{
+    background:  #d65095 ;
+    height:32px;
+    width: 250px;
+    margin-left: 11%;
+}
+.logo {
+
+    width: 130px;
+    height: 31px;
+    background: rgba(255,255,255,.2);
+    margin: 16px 250px 16px 0;
+    float: left;
+    background-image: "tmobiles.png";
+    position: absolute;
+    z-index: 1;
+  }
+  .logo_img
+  {
+      width: 130px;
+      height: 32px;
+      margin-bottom: 110%;
+  }
+
+  .iconlist{
+      float: right;
+      margin-right: 5%;
+  }
+  .iconbell
+  {
+    margin-left: 20px;
+  }
+ .iconmsg
+  {
+    margin-left: 23px;
+   
+  }
+  .iconuser
+  {
+    margin-left: 28px;
+  }
+ 
