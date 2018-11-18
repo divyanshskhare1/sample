@@ -1,0 +1,29 @@
+.iconlist{
+    float: right;
+    margin-right: 5%;
+}
+
+.iconbell
+  {
+    margin-left: 20px;
+    font-size: 22px;
+  }
+
+  .iconmsg
+  {
+    margin-left: 23px;
+    font-size: 22px;
+  }
+  .iconuser
+  {
+    margin-left: 28px;
+    font-size: 22px;
+  }
+ 
+  .nav-area1{
+    background:  #d65095 ;
+    height:32px;
+    width: 250px;
+ float: left;
+    margin-top: 15px;
+}
