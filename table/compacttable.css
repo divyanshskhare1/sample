@@ -1,0 +1,32 @@
+.ant-table-thead > tr > th {
+    background-color: blueviolet !important;
+    /* background-color: transparent; */
+    -webkit-transition: background .3s ease;
+    transition: background .3s ease;
+    text-align: left;
+    color: black;
+    font-weight: 500;
+    border-bottom: 1px solid black;
+    grid-column-gap: 0px;
+    border-spacing: 0px 0px;
+    
+  }
+  
+  .ant-table-content {
+    background-color: rgb(12, 4, 4);
+    color: black;
+   }
+
+   .ant-table-body {
+    background-color: rgb(231, 229, 224);
+    /* color: black; */
+    border: 30pt;
+    border-width: 10pt;
+    border-color: black;
+   }
+
+  /* th.column-type,
+td.column-type {
+  text-align: right !important;
+  background-color: cornflowerblue;
+} */
